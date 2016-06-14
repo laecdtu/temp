@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Emacs files
+*~
+
 # Session Data files
 .RData
 
